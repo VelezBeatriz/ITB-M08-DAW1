@@ -34,7 +34,6 @@
    ```
 
 3. Inicializa el repositorio y haz un commit inicial.
-   ```
 
 ---
 
