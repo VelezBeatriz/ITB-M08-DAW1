@@ -83,7 +83,7 @@ Trabaja en cada rama por separado.
 ---
 
 #### **4. Fusiona las Funcionalidades**
-Fusiona **tpdas** ramas en la rama principal **`main`**.
+Fusiona **todas** las ramas en la rama principal **`main`**.
 
 #### **¡Se genera un conflicto!**
 Habrá un conflicto entre los cambios de `rama-estilos` (enlazar el CSS) y los cambios en el HTML. Resuelve el conflicto!
