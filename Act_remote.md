@@ -7,7 +7,7 @@ Hay que practicar la sincronización y administración de un repositorio Git, ma
 - Quiero capturas del terminal donde se muestre el comando
 - Quiero que escribas el comando en el ejercicio
 - Quiero que expliques que estás haciendo
-- **IMPORTANTE**: Vas a documentar todo el proyecto en un README.md dentro de la actividad. Vas a escribirlo en Markdown
+- **IMPORTANTE**: Vas a documentar todo el proyecto en un README.md dentro de la actividad. Vas a escribirlo en [Markdown](https://github.com/VelezBeatriz/ITB-M08-DAW1/blob/main/Markdown.md)
 ---
 
 #### **Enunciado:**
