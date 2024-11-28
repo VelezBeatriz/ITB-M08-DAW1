@@ -92,3 +92,24 @@ Crear rama y moverme a la rama, hacer el switch a la rama
 ```bash
 git checkout -b nombre-rama
 ```
+
+Ver lineas modificadas
+```bash
+git diff
+git diff --staged
+```
+
+Añadir a un repositorio remoto
+```bash
+git remote add nombreRemoto URL #Ejemplo: git remote add origin URL
+```
+
+Subir los cambios del repositorio local al remoto
+```bash
+git pish nombreRemoto rama #Ejemplo: git push origin main
+```
+
+Descargar los cambios del repositorio remoto al local y los combina
+```bash
+git pull nombreRemoto rama #Ejemplo: git pull origin main
+```
