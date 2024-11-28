@@ -106,7 +106,7 @@ git remote add nombreRemoto URL #Ejemplo: git remote add origin URL
 
 Subir los cambios del repositorio local al remoto
 ```bash
-git pish nombreRemoto rama #Ejemplo: git push origin main
+git push nombreRemoto rama #Ejemplo: git push origin main
 ```
 
 Descargar los cambios del repositorio remoto al local y los combina
