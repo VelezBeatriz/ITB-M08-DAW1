@@ -61,3 +61,7 @@
 
 3. Haz un commit.
 ---
+
+#### **4. Sube el repositorio Git Local al Remoto**
+
+1. Ya sabes como hacerlo, si no te acuerdas tienes aquí la (guía de comandos)[https://github.com/VelezBeatriz/ITB-M08-DAW1/blob/main/README.md]
