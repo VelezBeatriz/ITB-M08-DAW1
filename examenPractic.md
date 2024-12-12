@@ -65,7 +65,7 @@ En acabar l'últim pas de l'examen, hauràs de penjar aquest document a la branc
 2. **Crea un fitxer `README.md` si es necessari:**  
    - Explica dins del fitxer el propòsit del projecte.  
 
-3. **Afegeix i fes commit dels canvis a la branca `documentacio`**
+3. **Afegeix i fes commit dels canvis a la branca `documentacio`.**
 El missatge del commit ha de ser "3 - README.md amb documentació inicial"
 
 4. **Torna a la branca principal (`main`) i fes un merge** 
