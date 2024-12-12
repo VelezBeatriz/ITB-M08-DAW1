@@ -47,7 +47,7 @@ En acabar l'últim pas de l'examen, hauràs de penjar aquest document a la branc
 #### **3. Gestió amb Git**
 
 1. **Afegir fitxers:**  
-   - Utilitza un patró d'expressió regular per afegir tots els fitxers `.html` i `.css`.    
+   - Utilitza un patró d'expressió regular per afegir tots els fitxers `.html` i `.css`. Fes captura del terminal   
 
 2. **Verifica l'estat del repositori, fes captura del terminal**  
 
