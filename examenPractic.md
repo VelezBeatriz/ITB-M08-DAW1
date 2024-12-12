@@ -74,7 +74,7 @@ El missatge del commit ha de ser "3 - README.md amb documentació inicial"
 
 #### **5. Remot i publicació**
 
-1. **Configura un remot per al repositori que has creat en GitHub, el nom del repositorio ha de ser `Cognom1Cognom2Examen`.
+1. Configura un remot per al repositori que has creat en GitHub, el nom del repositorio ha de ser `Cognom1Cognom2Examen`.
 
 2. **Puja els canvis al remot**
 
