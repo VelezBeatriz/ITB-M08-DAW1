@@ -29,7 +29,7 @@ En acabar l'últim pas de l'examen, hauràs de penjar aquest document a la branc
 
 5. Inicia un nou repositori Git al directori de treball on consideris. El nom del directorio ha de ser `Cognom1Cognom2Examen2425`.
 
-6. Fes un primer commit que amb el missatge `1 - Git init`
+6. Crea un document README.md, afegeix el document i fes un primer commit que amb el missatge `1 - Git init`
 ---
 
 #### **2. Creació del projecte web**
@@ -53,7 +53,7 @@ En acabar l'últim pas de l'examen, hauràs de penjar aquest document a la branc
 
 3. **Elimina `testunitari.html` del staging**  
 
-4. **Fes ub commit que amb el missatge '2- Estructura bàsica'**  
+4. **Fes un commit que amb el missatge '2- Estructura bàsica'**  
  
 5. **Consulta l'historial de commits, fes captura del terminal.**  
 ---
@@ -62,11 +62,11 @@ En acabar l'últim pas de l'examen, hauràs de penjar aquest document a la branc
 
 1. **Crea una nova branca per a la documentació** 
 
-2. **Crea un fitxer `README.md` en format Markdown:**  
-   - Explica breument el propòsit del projecte.  
+2. **Crea un fitxer `README.md` si es necessari:**  
+   - Explica dins del fitxer el propòsit del projecte.  
 
 3. **Afegeix i fes commit dels canvis a la branca `documentacio`. 
-El missatge del commit ha de ser "3 - Afegit README.md amb documentació inicial"
+El missatge del commit ha de ser "3 - README.md amb documentació inicial"
    ```
 
 4. **Torna a la branca principal (`main`) i fes un merge** 
