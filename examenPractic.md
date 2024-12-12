@@ -74,9 +74,9 @@ El missatge del commit ha de ser "3 - README.md amb documentació inicial"
 
 #### **5. Remot i publicació**
 
-1. Configura un remot per al repositori que has creat en GitHub, el nom del repositorio ha de ser `Cognom1Cognom2Examen2425`. Fes captura al terminal.
+1. Configura un remot per al repositori que has de crear en GitHub, el nom del repositorio de GitHub ha de ser `Cognom1Cognom2Examen2425`. Fes captura al terminal de com has configurat el repositori remot.
 
-2. **Puja els canvis al remot desde terminal**
+2. **Puja els canvis al remot desde terminal**.Fes captura al terminal.
 
 4. **Publica el projecte a Vercel i indica l'enllaç en el document Markdown del examen.**
 
